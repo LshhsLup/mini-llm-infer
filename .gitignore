@@ -1,0 +1,6 @@
+models/
+*.pyc
+__pycache__/
+.venv/
+*.log
+wandb/
